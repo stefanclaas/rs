@@ -1,4 +1,4 @@
 # rs
-Generate alphanumeric uppercase random strings.
+Generate random strings.
 
-Usage: rs [int] [int]
+Usage: rs [a|b|l|m|n] <int> <int>
